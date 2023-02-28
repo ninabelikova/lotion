@@ -10,4 +10,5 @@ sample in Lotion typeface")
 
 ## Update: more western european language support
 ![picture of western european glyphs](img/western_european_glyphs.png "Picture of western european glyphs")
-
+## Credits
+Ligatures by @Nicell. Thank you!
