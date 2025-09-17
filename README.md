@@ -1,14 +1,20 @@
 # Lotion
-A cute free font for programming!
+Lotion is a cute, free monospace typeface designed for programming!
+Handcrafted for maximised style! Includes matching italics for 4 weights and a
+variable font.
+
 ![picture of code sample in Lotion typeface](img/sample.png "Picture of code
 sample in Lotion typeface")
 
 ## Features
-- Weights: Regular, SemiBold, Bold, Black
-- Styles: Roman & *Italics*
-- Now available as a variable font!
+**4 Weights**
+Regular, SemiBold, Bold, Black
 
-## Update: more western european language support
-![picture of western european glyphs](img/western_european_glyphs.png "Picture of western european glyphs")
+**2 Styles**
+Roman & *Italics*
+
+**Variable font!**
+2 axes: weight, italics
+
 ## Credits
 Ligatures by @Nicell. Thank you!
